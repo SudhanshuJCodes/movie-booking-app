@@ -12,13 +12,6 @@ A Spring Boot-based movie booking system with JWT authentication and role-based 
 - JWT for authentication
 - Maven
 
-## Prerequisites
-
-- JDK 17 or later
-- Maven 3.x
-- MySQL 8.x
-- IDE (IntelliJ IDEA or VS Code recommended)
-
 ## Setup Instructions
 
 1. Clone the repository
